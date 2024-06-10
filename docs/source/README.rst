@@ -8,7 +8,6 @@ Mountain Lion Classification Challenge
 .. raw:: html
 
    </p>
-
 This repository contains a machine learning project aimed at classifying images
 into two categories: containing a mountain lion or not. The core of this project
 is a Jupyter notebook that outlines the process of training a model for this
