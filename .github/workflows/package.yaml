@@ -1,4 +1,4 @@
-name: Build package
+name: Test Python notebooks and sources
 
 on:
   push:
