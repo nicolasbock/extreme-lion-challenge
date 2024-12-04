@@ -3,6 +3,7 @@
    :caption: Contents
 
    HLD
+   NEURIPS_2024
 
 PumaGuard
 =========
